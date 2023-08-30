@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(135, 185, 68, 0.767);
+    
+}
+
+p{
+   text-align: left; 
+   font-size: 100%;
+   color: white;
+   
+}
+
+
+h1{  
+    text-align: center;
+    font-size: 350%;
+    font-weight: 500;
+    color:white
+}
+
+h2{
+   font-size: 200%;
+
+
+
+}
+
+
+.altP{
+    text-align: right;
+
+    size;
+}
