@@ -1,0 +1,42 @@
+
+
+caption{
+caption-side: bottom;
+font-size: 50px;
+}
+
+
+td{
+    border: 1px solid black;
+}
+
+
+table{
+   width: 750px;
+   height: 500px;
+   border-collapse: collapse;
+   margin: 0 auto;
+}
+
+
+.green{
+  background-color: greenyellow;
+
+}
+
+.Yellow{
+    background-color: yellow;
+}
+
+.Red{
+  background-color: red;
+
+}
+
+.Blue{
+  background-color: blue;
+}
+
+.Black{
+  background-color: black;
+}

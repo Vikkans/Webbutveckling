@@ -3,6 +3,7 @@ table,td,th{
   border-collapse:collapse;
   height: 30px;
   width:800px;
+  margin:0 auto ;
 }
 
 tr:nth-child(odd) {background-color: rgb(255, 0, 0);}
@@ -21,9 +22,26 @@ td:nth-child(4){
     text-align: right;
 }
 
-th{
-   font size 30%
-
+th:nth-child(2){
+    text-align: center;
 }
 
+th:nth-child(3){
+    text-align: center;
+}
+
+th:nth-child(4){
+    text-align: right;
+}
+
+th:nth-child(1){
+ text-align: left;
+}
+
+
+caption{
+ text-align: center;
+ caption-side: bottom;
+ font-size: 30px;
+}
 
